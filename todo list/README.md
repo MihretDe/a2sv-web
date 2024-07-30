@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-- **Add a Task**: Click on the "Add" button to display the form. Enter the task title and click "Add Task".
+- **Add a Task**: Click on the "Add task" button to display the form. Enter the task title and click "Add ".
 - **Edit a Task**: Click on the "edit" button next to the task you want to edit. Modify the task in the textarea and click "save".
 - **Delete a Task**: Click on the "delete" button next to the task you want to remove.
 ## images
