@@ -35,11 +35,13 @@ To run this project locally, follow these steps:
 - **Edit a Task**: Click on the "edit" button next to the task you want to edit. Modify the task in the textarea and click "save".
 - **Delete a Task**: Click on the "delete" button next to the task you want to remove.
 ## images
-![Screenshot 2024-07-29 215852](https://github.com/user-attachments/assets/5b23b79f-3c21-4e68-9ed5-57dc1cc9f335)
-![Screenshot 2024-07-29 220004](https://github.com/user-attachments/assets/4a28431c-8864-4a18-989a-f38f3d36f4c9)
-![Screenshot 2024-07-29 220028](https://github.com/user-attachments/assets/7d7993d5-51a5-4d5b-bf28-6c2548726441)
-![Screenshot 2024-07-29 220106](https://github.com/user-attachments/assets/fe68c319-e97b-40dc-acb3-6011e7bdc5f5)
-![Screenshot 2024-07-29 220112](https://github.com/user-attachments/assets/11504c5c-6a9e-4472-a205-0b520ec64a73)
-![Screenshot 2024-07-29 220130](https://github.com/user-attachments/assets/246ac76f-bb7e-4a85-bab2-76a07d9efa14)
+![Screenshot 2024-07-30 210017](https://github.com/user-attachments/assets/2888556f-bae0-4224-a82e-402492262189)
+![Screenshot 2024-07-30 210029](https://github.com/user-attachments/assets/035512cf-2278-45d5-9d1a-44066fb6602c)
+![Screenshot 2024-07-30 210113](https://github.com/user-attachments/assets/73bfb164-001b-4c47-9d94-1b4a93fffdfe)
+![Screenshot 2024-07-30 210131](https://github.com/user-attachments/assets/a52f596e-8de2-41fe-9ead-e8cb0c70addd)
+![Screenshot 2024-07-30 210203](https://github.com/user-attachments/assets/f5bca856-25d8-4e63-b49b-63012ee2a6cf)
+![Screenshot 2024-07-30 210220](https://github.com/user-attachments/assets/a5e18980-427f-41c0-a0fd-b07a2f70f0c8)
+![Screenshot 2024-07-30 210234](https://github.com/user-attachments/assets/a8d5ceb6-67e1-48a3-9767-f4a5b0e248ca)
+
 
 
