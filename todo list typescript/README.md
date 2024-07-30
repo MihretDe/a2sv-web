@@ -14,12 +14,6 @@ This is a simple To-Do List application that allows users to create, edit, and d
 ## Installation
 
 To run this project locally, follow these steps:
-1.**Install TypeScript (if not already installed)**:
-```bash
-npm install -g typescript
-Compile the TypeScript file:
-
-
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/MihretDe/a2sv-web
