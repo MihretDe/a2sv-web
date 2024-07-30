@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple To-Do List application that allows users to create, edit, and delete tasks. The application is built using TypeScript, HTML, and CSS. It provides an intuitive interface for managing tasks efficiently.
+This is a simple To-Do List application that allows users to create, edit, and delete tasks. The application is built using Javascript, HTML, and CSS. It provides an intuitive interface for managing tasks efficiently.
 
 ## Features
 
@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-- **Add a Task**: Click on the "Add task" button to display the form. Enter the task title and click "Add ".
+- **Add a Task**: Click on the "Add task" button to display the form. Enter the task and click "Add ".
 - **Edit a Task**: Click on the "edit" button next to the task you want to edit. Modify the task in the textarea and click "save".
 - **Delete a Task**: Click on the "delete" button next to the task you want to remove.
 ## images
