@@ -1,26 +1,21 @@
 body{
     display: flex;
     justify-content: center;
-    background-color: rgb(226, 218, 214);
+    background-color: #0C0C0C;
 }
 
 p{
     display: inline-block;
     font-size: 30px;
     width: 70%;
-    color: #7FA1C3;
+    color: black;
     word-wrap: break-word; 
     word-break: break-word; 
     white-space: normal; 
     
 }
-.edit{
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-bottom: 10px;
-}
 button{
-    background-color: #6482AD;
+    background-color: #7FA1C3;
     border-color: #6482AD;
     border-radius: 20px;
     width: 125px;
@@ -33,7 +28,7 @@ button{
     margin-top: 20px;
     border-radius: 20px;
     border-color: black;
-    background-color: #7FA1C3;
+    background-color: #481E14;
     width: 50%;
     padding-left: 10px;
     padding-bottom: 10px;
@@ -41,12 +36,6 @@ button{
 h1{
     padding-left: 30%;
     color: #F5EDED;
-}
-textarea{
-    border-radius: 10px;
-    width:400px;
-    height:auto;
-    font-size: 15px;
 }
 .task-item {
     display: flex;
@@ -57,13 +46,25 @@ textarea{
     padding: 10px;
     border-radius: 10px;
     width: 95%;
+    background-color: white;
 }
-
 .task-content {
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 100%;
+    
+}
+#task{
+    width: 90%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 16px;
+    resize: none; 
+    overflow: hidden; 
+    white-space: pre-wrap; 
 }
 
 
