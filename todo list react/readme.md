@@ -52,7 +52,7 @@ To create a production build of the app, use:
    ```
 ## images
 ![Screenshot 2024-08-01 104852](https://github.com/user-attachments/assets/0334e231-a3bc-4e66-9118-b217a17aa8eb)
-![Screenshot 2024-08-01 104923](https://github.com/user-attachments/assets/d7db717c-5424-4b35-96f9-ba817ed70389)
+![Screenshot 2024-08-01 204727](https://github.com/user-attachments/assets/d39bd1cb-653d-46c6-a07c-11084c7bd2f7)
 ![Screenshot 2024-08-01 105016](https://github.com/user-attachments/assets/5eb1c8e9-e5c0-4d4b-a22c-8f14c7267d7c)
 ![Screenshot 2024-08-01 105048](https://github.com/user-attachments/assets/fd2ec732-77d7-4d39-9b7a-9edaee4e6ccf)
 ![Screenshot 2024-08-01 105119](https://github.com/user-attachments/assets/f73c957e-9541-4a7b-94c9-b6a41f5ba34a)
