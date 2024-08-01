@@ -40,7 +40,7 @@ button{
     padding-bottom: 10px;
 }
 h1{
-    padding-left: 30%;
+    /* padding-left: 30%; */
     color: #F5EDED;
     font-family: "Edu AU VIC WA NT Hand", cursive;
   font-optical-sizing: auto;
@@ -67,7 +67,7 @@ h1{
     
 }
 #task{
-    width: 90%;
+    width: 97%;
     padding: 10px;
     box-sizing: border-box;
     border: 1px solid #ccc;
@@ -76,11 +76,11 @@ h1{
     resize: none; 
     overflow: hidden; 
     white-space: pre-wrap; 
+    margin-bottom: 10px;
     
 }
 #addtask{
     display: flex;
-    margin-left: 20%;
     width: 60%;
     align-items: center;
     justify-content: center;
@@ -99,7 +99,16 @@ button .material-symbols-outlined{
     color: #481E14;
     font-size: 30px;
 }
-
+#root{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+#task button{
+    margin-left: 0px;
+}
 
 
 
