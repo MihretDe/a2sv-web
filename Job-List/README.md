@@ -18,10 +18,10 @@ To get started with the Job Listing Application, follow these instructions.
 
 ### Installation
 
-1. **Clone the Repository**
+**Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/job-list-app.git
+   git clone https:https://github.com/MihretDe/a2sv-web/tree/main/Job-List
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
