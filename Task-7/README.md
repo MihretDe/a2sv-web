@@ -17,6 +17,7 @@ This project is a job portal application that fetches job opportunities from a b
    ```bash
    git clone https://github.com/MihretDe/a2sv-web
    cd Task-7
+```
 
 ## Getting Started
 
@@ -47,8 +48,17 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## images
+**Image 1**
+![Screenshot 2024-08-05 180157](https://github.com/user-attachments/assets/b056be88-dca2-40c4-9b7a-6488ec9ac438)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**Image 2**
+
+
+![Screenshot 2024-08-05 180217](https://github.com/user-attachments/assets/8c7f1ee4-5ad6-4eab-aa44-8b57056f2b9e)
+**Image 3**
+![Screenshot 2024-08-05 180442](https://github.com/user-attachments/assets/0a2d9d33-7784-4239-ad50-f9e6397e1653)
+
+
+
