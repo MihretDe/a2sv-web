@@ -1,4 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Job Portal
+
+This project is a job portal application that fetches job opportunities from a backend API and displays them in a list format. It includes a loading state to indicate when data is being fetched and handles errors gracefully.
+
+## Features
+
+- **Fetch Job Opportunities**: Retrieve job listings from a backend API.
+- **Loading State**: Display a loading message while data is being fetched.
+- **Error Handling**: Show an error message if the data fetching fails.
+- **Job List**: Render job cards for each job opportunity.
+
+
+## Setup
+
+ **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/MihretDe/a2sv-web
+   cd Task-7
 
 ## Getting Started
 
